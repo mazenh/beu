@@ -1,0 +1,147 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+header nav ul{
+	list-style-type: none;
+	float:right;
+	margin-top:-28px;
+	
+}
+header nav ul li{
+	display:inline;
+	padding:10px;
+	margin:0px 20px 0px 0px;
+	
+}
+header ul li a{
+	text-decoration:none;
+	
+}
+header ul li a:hover {
+    background-image:url("../img/hover.png");
+    color:white;
+    
+}
+
+#telephone{
+	float:right;
+}
+#centerImg{
+	width:100%;
+	height:459px;
+	background-image:url("../img/business-home_11.jpg")	;
+}
+#container{
+	width:960px;
+	margin:0 auto;
+	border:1px solid gray;
+	border-radius:0.5%;
+	height: auto;
+}
+#www{
+	height: 630px;
+}
+#text{
+	color:white;
+	font-size:1.5em;
+	display:inline-block;
+	margin:80px;
+	height: 45px;
+}
+#getStart{
+	margin:0px 0px 0px 70px;
+}
+.questions{
+	float:left;
+	width:33.33%;
+	text-align: center;
+	font-size:25px;
+	
+}
+.articles{
+	text-align:left;
+	margin:25px;
+	font-size:16px;
+}
+#read{
+	float:left;
+	margin:0px 0px 0px 20px;
+}
+#read2{
+    float:left;
+    margin:0px 0px 0px 20px;	
+}
+
+ #list{
+ 	text-align:left;
+ }
+#list ul li a{
+	text-decoration: none;
+	font-size: 18px;
+	
+}
+.articles{
+	font-family:Arial;
+}
+
+.clear-box{
+	clear: both;
+	overflow: hidden;
+}
+.footer{
+	width:100%;
+	height:300px;
+	border:1px solid gray;
+	background-color:#ededed; 
+}
+
+.footer .area1{
+	float:left;
+	width:32%;
+	height:100%;
+	margin:0px 0px 0px 10px;
+}
+
+.footer .area1 #h2a{
+	margin-top:30px;
+	margin-left:85px;
+}
+
+.footer .area1 ul{
+	list-style-type: none;
+	margin-top:30px;
+	margin-left:40px;
+}
+
+.footer .area1 ul li{
+	padding:5px;
+	font-family:sans-serif;
+	
+}
+
+.footer .area1 ul li a {
+    text-decoration:none;	
+}
+
+.footer .area1 p{
+	margin-top:20px;
+	padding:2px;
+}
+
+.footer .area1 h2{
+	margin-top:30px;
+}
+
+.footer .area1 p span{
+	color:blue;
+}
+
+#footerImg{
+	border:1px solid gray;
+	background-color:#ededed;
+	width:100%;
+	
+}
+
